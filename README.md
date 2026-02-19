@@ -115,5 +115,5 @@ This project demonstrates how Exploratory Data Analysis can uncover hidden patte
 ---
 
 ## 👩‍💻 Author
+Ishika Mishra 
 
-Student Project — Data Analysis Practice
